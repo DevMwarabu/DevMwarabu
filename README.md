@@ -6,7 +6,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMwarabu&show_icons=true&theme=radical&count_private=true&hide=&hide=commits,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMwarabu&show_icons=true&theme=radical&count_private=true&hide=commits,contribs)
 
 
 

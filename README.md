@@ -14,6 +14,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMwarabu&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMwarabu&repo=Chama-App)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMwarabu&repo=1000PlusMemes)](https://github.com/anuraghazra/github-readme-stats)
 
 

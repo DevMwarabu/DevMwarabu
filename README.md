@@ -3,7 +3,7 @@
 I'm **John Mwarabu** — Full-Stack Developer · UI/UX Designer · Researcher.  
 I build polished, high-performance apps for web, mobile (iOS & Android) and desktop, with a focus on intuitive user experiences and clean code.
 
-- 🌐 Portfolio: [mwarabudev.com](https://mwarabudev.com)  
+- 🌐 Portfolio: [devmwarabu.com](https://devmwarabu.com)  
 - ✉️ Email: johnmwarabuchone@gmail.com  
 - 🧭 GitHub: [@DevMwarabu](https://github.com/DevMwarabu)
 
